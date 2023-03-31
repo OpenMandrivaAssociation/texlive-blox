@@ -1,6 +1,6 @@
 Name:		texlive-blox
 Version:	57949
-Release:	1
+Release:	2
 Summary:	Draw block diagrams, using TikZ
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/blox
