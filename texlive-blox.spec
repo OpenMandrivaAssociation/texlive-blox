@@ -3,7 +3,7 @@ Version:	57949
 Release:	2
 Summary:	Draw block diagrams, using TikZ
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/blox
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/blox
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/blox.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/blox.doc.r%{version}.tar.xz
